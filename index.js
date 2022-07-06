@@ -1,2 +1,2 @@
-sxc
+:sxc
 SXC
